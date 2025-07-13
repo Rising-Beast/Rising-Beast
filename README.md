@@ -1,8 +1,6 @@
-<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Namaste!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30" width="100%" alt="Header Banner"/>
 
 
-<!-- Name -->
 <h1 align="center">
   😎 <strong>Sai Ayushman Padhy</strong><br>
   <em>|| A Software Development Engineer in the making ||</em>
@@ -109,14 +107,12 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 
 <div align="center">
 
-<!-- First Card - GitHub Streak -->
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rising-Beast&theme=tokyonight&hide_border=true&background=141321&stroke=FFFFFF&ring=00FFC8&fire=FF0055&currStreakNum=FF0055&currStreakLabel=FF0055&sideNums=00FFC8&sideLabels=FFFFFF&dates=03D8F3&border_radius=20" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- Three Cards Row -->
 <div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Repos Per Language" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rising-Beast&theme=2077&utcOffset=5.5" alt="Productive Time" />
@@ -125,7 +121,6 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 
 <br/>
 
-<!-- Two Cards Row -->
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" alt="GitHub Stats" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=donut&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3&langs_count=6" alt="Top Languages" />
@@ -136,9 +131,8 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 
 ## 📈 **Contribution Graph**
 
-<!-- Graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rising-Beast&custom_title=Rising-Beast's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D0D0D&color=00FFFF&line=FF00C8&point=FFFFFF&area_color=0D0D0D&title_color=FFFF00&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rising-Beast&custom_title=Rising-Beast's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=141321&color=03D8F3&line=00FFC8&point=FFFF00&area=true&area_color=FFFFFF&title_color=FF0055" alt="GitHub Activity Graph" />
 </div>
 
 
@@ -188,6 +182,4 @@ If you like my projects or want to collaborate, feel free to star my repos and o
 </h2>
 
 
-
-<!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" alt="Footer Banner"/>
