@@ -148,7 +148,7 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 ## 🌐 Connect with Me
 
 <div align="center">
-  <h2>Discover my work and connect on these platforms!</h2>
+  <p>Discover my work and connect on these platforms!</p>
 
 | GitHub | Sai Ayushman Padhy | LinkedIn | Email |
 | --- | --- | --- | --- |
