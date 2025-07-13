@@ -176,6 +176,11 @@ If you like my projects or want to collaborate, feel free to star my repos and o
 </div>
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rising-Beast/Rising-Beast/output/github-contribution-grid-snake.svg" alt="Cyberpunk Snake Animation" />
+</div>
+
+
 ---
 
 
