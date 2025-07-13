@@ -2,9 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" alt="Header Banner"/>
 
 
+<!-- Name -->
 <div align="center">
 
-# 🚀 **Sai Ayushman Padhy** | *A Software Development Engineer in the making*
+# 😎 **Sai Ayushman Padhy** 
+# *A Software Development Engineer in the making*
 
 </div>
 
