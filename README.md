@@ -57,6 +57,9 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 - 🔧 **Upgrading** my skills and experimenting with new technologies
 
 
+---
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
