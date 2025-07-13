@@ -127,7 +127,7 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=compact&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=compact&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3" alt="Top Languages" />
   
 </p>
 
