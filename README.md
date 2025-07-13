@@ -123,7 +123,7 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 <!-- Two Cards Row -->
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=pie&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=donut&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3&langs_count=6" alt="Top Languages" />
 </div>
 
 </div>
