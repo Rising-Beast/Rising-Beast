@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Namaste!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30" width="100%" alt="Header Banner"/>
 
 
 <!-- Name -->
@@ -148,7 +148,7 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 ## 🌐 Connect with Me
 
 <div align="center">
-  <p>Discover my work and connect on these platforms!</p>
+  <h2>Discover my work and connect on these platforms!</h2>
 
 | GitHub | Sai Ayushman Padhy | LinkedIn | Email |
 | --- | --- | --- | --- |
@@ -162,6 +162,10 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 </div>
 
 
+---
+
+
+
 <h2>
 <div align="center">
 
@@ -172,4 +176,4 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" alt="Footer Banner"/>
