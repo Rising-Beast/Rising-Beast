@@ -1,18 +1,51 @@
-# 👋 Hi, I'm **Sai Ayushman Padhy**, aka **Rising-Beast**! 🚀
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" alt="Header Banner"/>
+
+
+<div align="center">
+
+# 🚀 **Sai Ayushman Padhy** | *A Software Development Engineer in the making*
+
+</div>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600";" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&duration=3000&pause=1500&color=FF00C8&center=true&vCenter=true&width=600&height=100&lines=Hey+there!+I'm+Sai+Ayushman+👋;Alias:+Rising-Beast+👨‍💻⚡;Software+Engineer+%7C+India+🇮🇳;Building+Scalable+Digital+Solutions;Tech+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+
 ---
 
-## 🧑‍💻 **About Me**
 
-I'm an enthusiastic learner and aspiring coder who loves exploring and building things with technology. I enjoy problem-solving and am always eager to expand my skill set. Right now, I'm focused on learning **Full-Stack Web Development**, exploring **Android Development***, and diving into the basics of **AI/ML** and **Data Science**.
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rising-Beast&color=FF00C8&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35" style="border-radius: 10px" >
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rising-Beast&label=Profile%20views&color=brightgreen&style=flat" alt="Rising-Beast" /> </p>
 
----
+## ✨ **About Me**
+
+``` python
+class Developer:
+    def __init__(self):
+        self.name = "Aspiring Coder"
+        self.location = "India 🇮🇳"
+        self.current_learning = [ "Full-Stack Web Development", "Android Development", "AI/ML Fundamentals", "Data Science" ]
+        self.skills = [ "Problem Solving", "Clean Code", "Innovation" ]
+        self.mindset = "Always eager to learn and build!"
+        self.passion = "Exploring technology boundaries 🚀"
+
+Sai_Ayushman_Padhy = Developer()
+print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much chai ☕")
+```
+
 
 ## 🌱 **What I Do**  
 
@@ -21,101 +54,94 @@ I'm an enthusiastic learner and aspiring coder who loves exploring and building 
 - 🤖 Getting started with **AI/ML & Data Science**
 - 🔧 **Upgrading** my skills and experimenting with new technologies
 
----
 
-## 🏆 **GitHub Stats & Achievements**
+## 🛠️ Tech Stack
 
-### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=radical&count_private=true)
+<div align="center">
 
-### 🌟 **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=compact&theme=radical)
+### **Programming Languages**
 
----
-
-## 📈 **Contribution Streaks**
-
-<p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rising-Beast&theme=outrun" alt="Rising-Beast" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
 </p>
 
----
+### **Frontend Technologies**
 
-## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+</p>
 
-### **Languages & Databases:**
-- **Java**  |  **Python**  |  **C**  |  **MySQL** 
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /> 
-  </p>
+### **Backend Technologies**
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="mySQL" />
+</p>
+
+### **Tools & Platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
+  <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+</p>
+
+</div>
+
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
   
-### **Web Development:**
-- **HTML5**  |  **CSS3**  |  **JavaScript**
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />  
-  </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rising-Beast&theme=tokyonight&hide_border=true&background=141321&stroke=FFFFFF&ring=00FFC8&fire=FF0055&currStreakNum=FF0055&currStreakLabel=FF0055&sideNums=00FFC8&sideLabels=FFFFFF&dates=03D8F3&border_radius=20)
+
+</div>
 
 
-### **Backend Development:**
-- **Node.js** 
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />  
-  </p>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img height="180em"src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rising-Beast&theme=2077&utcOffset=5.5" alt="Productive Time" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
 
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=compact&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3" alt="Top Languages" />
   
-### **Version Control & Collaboration:**
-- **Git**  |  **GitHub** 
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />  
-  </p>
-   
+</p>
 
-### **Development Tools:**
-- **Visual Studio Code**  |  **PowerShell**
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50" />
-  </p>
-  
+</div>
 
-### **Cloud & Deployment:**
-- **Netlify**  |  **Vercel**
-  <p>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" height="50" />
-  </p>
-  
 
-### **Operating Systems:**
-- **Windows**
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" />  
-  </p>
+## 📈 **Contribution Graph**
 
----
+<div align="center">
 
-## 💬 **Let's Connect & Build Something Amazing!**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rising-Beast&custom_title=Rising-Beast's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D0D0D&color=00FFFF&line=FF00C8&point=FFFFFF&area_color=0D0D0D&title_color=FFFF00&area=true" alt="GitHub Activity Graph" />
 
-📫 **You can reach me at:**  
-- 📌 Portfolio:   *Work in Progress...*
-- 📌 Email:       **saiayushmanpadhy.official@gmail.com**
-- 📌 LinkedIn:    [Sai Ayushman Padhy](www.linkedin.com/in/sai-ayushman-padhy)
-- 📌 GitHub:      [Rising-Beast](https://github.com/Rising-Beast) 
-- 📌 X / Twitter: [ayushman_sai](https://x.com/ayushman_sai?t=SqseBv9ThAgPkhSAeZL9Qw&s=09)
-- 📌 Instagram:   [_sai.ayushman_](https://www.instagram.com/_sai.ayushman_?igsh=YjNpdnhiMmR2Nmdu)
- 
----
+</div>
 
-## 🔥 Let's build something incredible together! 💥
 
----
-
-## 🌟 **Support My Work**
-If you like my projects or want to collaborate, feel free to star my repos and open issues for suggestions. 💬 Your feedback means a lot!
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" alt="Footer Banner"/>
