@@ -103,54 +103,37 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rising-Beast&theme=tokyonight&hide_border=true&background=141321&stroke=FFFFFF&ring=00FFC8&fire=FF0055&currStreakNum=FF0055&currStreakLabel=FF0055&sideNums=00FFC8&sideLabels=FFFFFF&dates=03D8F3&border_radius=20)
 
+<!-- First Card - GitHub Streak -->
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rising-Beast&theme=tokyonight&hide_border=true&background=141321&stroke=FFFFFF&ring=00FFC8&fire=FF0055&currStreakNum=FF0055&currStreakLabel=FF0055&sideNums=00FFC8&sideLabels=FFFFFF&dates=03D8F3&border_radius=20" alt="GitHub Streak" />
 </div>
 
+<br/>
 
-<div align="center">
+<!-- Three Cards Row -->
+<div>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Repos Per Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rising-Beast&theme=2077&utcOffset=5.5" alt="Productive Time" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Most Commit Language" />
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Repos Per Language" />
-    </td>
-    <td>
-      <img height="180em"src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rising-Beast&theme=2077&utcOffset=5.5" alt="Productive Time" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Most Commit Language" />
-    </td>
-  </tr>
-</table>
+<br/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" />
+<!-- Two Cards Row -->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=compact&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3" alt="Top Languages" />
-  
-</p>
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" />
-    </td>
-    <td valign="middle">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=compact&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+</div>
 
 </div>
 
 
 ## 📈 **Contribution Graph**
 
+<!-- Graph -->
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rising-Beast&custom_title=Rising-Beast's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D0D0D&color=00FFFF&line=FF00C8&point=FFFFFF&area_color=0D0D0D&title_color=FFFF00&area=true" alt="GitHub Activity Graph" />
-
 </div>
 
 
