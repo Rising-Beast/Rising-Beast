@@ -3,12 +3,10 @@
 
 
 <!-- Name -->
-<div align="center">
-
-# 😎 **Sai Ayushman Padhy** 
-# *A Software Development Engineer in the making*
-
-</div>
+<h1 align="center">
+  😎 <strong>Sai Ayushman Padhy</strong><br>
+  <em>|| A Software Development Engineer in the making ||</em>
+</h1>
 
 
 <p align="center">
