@@ -165,6 +165,19 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 ---
 
 
+## 🌟 **Support My Work**
+If you like my projects or want to collaborate, feel free to star my repos and open issues for suggestions. 💬 Your feedback means a lot! 
+
+
+## 🐍 Feeding Time: Git-Snake Loves My Commits
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rising-Beast/Rising-Beast/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+
+---
+
 
 <h2>
 <div align="center">
@@ -173,6 +186,7 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 
 </div>
 </h2>
+
 
 
 <!-- Footer Banner -->
