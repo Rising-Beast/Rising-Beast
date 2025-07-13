@@ -21,6 +21,9 @@
 </div>
 
 
+---
+
+
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rising-Beast&color=FF00C8&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35" style="border-radius: 10px" >
@@ -137,6 +140,35 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rising-Beast&custom_title=Rising-Beast's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D0D0D&color=00FFFF&line=FF00C8&point=FFFFFF&area_color=0D0D0D&title_color=FFFF00&area=true" alt="GitHub Activity Graph" />
 </div>
+
+
+---
+
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <h2>Discover my work and connect on these platforms!</h2>
+
+| GitHub | Sai Ayushman Padhy | LinkedIn | Email |
+| --- | --- | --- | --- |
+| [![Rising-Beast](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FRising-Beast&size=square)](https://github.com/Rising-Beast) | [![Rising-Beast](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigooglechrome&subtitle=Portfolio&size=square)](https://www.saiayushman.com/) | [![Sai Ayushman Padhy](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Sai+Ayushman+Padhy&size=square)](https://www.linkedin.com/in/sai-ayushman-padhy) | [![Sai_Ayushman_official](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=official%40gmail.com&size=square)](https://mail.google.com/mail/?view=cm&fs=1&to=saiayushmanpadhy.official@gmail.com) |
+
+
+| Twitter/X | Instagram | CV |
+| --- | --- | --- |
+| [![SaiAyushman](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@ayushman_sai&size=square)](https://x.com/ayushman_sai) | [![sai.ayushmam.padhy](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@_sai.ayushman_&size=square)](https://www.instagram.com/_sai.ayushman_/) | [![Rising-Beast](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Sai+Ayushman+Padhy&size=square)](https://www.saiayushman.com/) | [![Rising-Beast](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Sai+Ayushman+Padhy&size=square)](https://www.saiayushman.com/) | 
+
+</div>
+
+
+<h2>
+<div align="center">
+
+⭐️ From [Rising-Beast](https://github.com/Rising-Beast) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+
+</div>
+</h2>
 
 
 <!-- Footer Banner -->
