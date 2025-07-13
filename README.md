@@ -21,9 +21,6 @@
 </div>
 
 
----
-
-
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rising-Beast&color=FF00C8&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35" style="border-radius: 10px" >
