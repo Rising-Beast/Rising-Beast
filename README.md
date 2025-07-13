@@ -123,34 +123,7 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 <!-- Two Cards Row -->
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=compact&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3" alt="Top Languages" />
-</div>
-
-</div>
-
-
-<div align="center">
-
-<!-- First Card - GitHub Streak -->
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rising-Beast&theme=tokyonight&hide_border=true&background=141321&stroke=FFFFFF&ring=00FFC8&fire=FF0055&currStreakNum=FF0055&currStreakLabel=FF0055&sideNums=00FFC8&sideLabels=FFFFFF&dates=03D8F3&border_radius=20" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- Three Cards Row -->
-<div>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Repos Per Language" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rising-Beast&theme=2077&utcOffset=5.5" alt="Productive Time" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Most Commit Language" />
-</div>
-
-<br/>
-
-<!-- Two Cards Row -->
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=pie&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3&langs_count=8" alt="Top Languages" />
 </div>
 
 </div>
