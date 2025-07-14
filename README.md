@@ -122,9 +122,9 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 <br/>
 
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=00FFC8&text_color=03D8F3" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rising-Beast&layout=donut&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=03D8F3&langs_count=6" alt="Top Languages" />
-</div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rising-Beast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=FF0055&icon_color=FFFFFF&text_color=00FFC8" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rising-Beast&layout=compact&theme=tokyonight&hide_border=true&bg_color=141321&title_color=FF0055&text_color=00FFC8&langs_count=8&card_width=360" alt="Top Languages" />
+</div>03D8F3
 
 </div>
 
