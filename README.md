@@ -115,8 +115,8 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
 
 <div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Repos Per Language" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rising-Beast&theme=2077&utcOffset=5.5" alt="Productive Time" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rising-Beast&theme=2077&hide_border=true" alt="Most Commit Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rising-Beast&theme=2077&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 <br/>
