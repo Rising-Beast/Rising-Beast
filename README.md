@@ -166,7 +166,7 @@ If you like my projects or want to collaborate, feel free to star my repos and o
 ## 🐍 Feeding Time: Git-Snake Loves My Commits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rising-Beast/Rising-Beast/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake animation - Dark" alt="Snake animation" style="border-radius: 10px" />
+  <img src="https://raw.githubusercontent.com/Rising-Beast/Rising-Beast/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake animation - Dark" alt="Snake animation" />
 </div>
 
 
