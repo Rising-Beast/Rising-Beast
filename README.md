@@ -24,7 +24,7 @@
 
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rising-Beast&color=FF00C8&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35" style="border-radius: 10px" >
+  <img src="https://komarev.com/ghpvc/?username=Rising-Beast&color=FF00C8&style=flat-square&label=Profile+Views" alt="Profile views" width="180" height="35" style="border-radius: 10px" >
 </p>
 
 
@@ -35,7 +35,7 @@ class Developer:
     def __init__(self):
         self.name = "Aspiring Coder"
         self.location = "India 🇮🇳"
-        self.current_learning = [ "Full-Stack Web Development", "Android Development", "AI/ML Fundamentals", "Data Science" ]
+        self.current_learning = [ "Full-Stack Web Development", "Android Development", "AI/ML Fundamentals" ]
         self.skills = [ "Problem Solving", "Clean Code", "Innovation" ]
         self.mindset = "Always eager to learn and build!"
         self.passion = "Exploring technology boundaries 🚀"
