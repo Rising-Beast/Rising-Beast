@@ -183,4 +183,3 @@ If you like my projects or want to collaborate, feel free to star my repos and o
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" alt="Footer Banner"/>
---
