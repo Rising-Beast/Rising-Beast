@@ -68,7 +68,6 @@ print("👨‍💻 Rising-Beast | Powered by logic, passion, and way too much ch
   <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
   <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
 </p>
 
 ### **Frontend Technologies**
